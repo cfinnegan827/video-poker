@@ -1,0 +1,3 @@
+Username,Balance
+Finny827,100000
+Guest,10000
